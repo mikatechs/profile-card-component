@@ -1,0 +1,14 @@
+{
+  "name": "profile-card-component",
+  "version": "1.0.0",
+  "description": "Profile card component",
+  "main": "index.js",
+  "scripts": {
+    "start:scss": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Mika Varshanidze",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
