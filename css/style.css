@@ -103,6 +103,7 @@ body {
       border-radius: 9.6rem;
       border: 5px solid #fff;
       background: url(../img/image-victor.jpg);
+      background-size: cover;
       transform: translateY(50%); }
 
 .profile {
